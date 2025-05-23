@@ -14,7 +14,7 @@ Lakukan binding user manual ke akun Google Workspace yang sesuai, seperti pada i
 Pastikan user yang dibuat manual ditambahkan ke dalam User Group SSO yang telah dikonfigurasi untuk akses ke Google Workspace.
 ![image](https://github.com/user-attachments/assets/78565c18-8fe3-4951-808f-c964694c4e7a)
 
-5. Simpan Konfigurasi
+6. Simpan Konfigurasi
 Setelah seluruh konfigurasi selesai, klik Save.
 Catatan: Nonaktifkan opsi pengiriman notifikasi email ke akun email kantor, karena pada tahap ini user belum dapat mengakses email tersebut.
 ![image](https://github.com/user-attachments/assets/663fa1f0-2588-470f-bba7-4cf3ad68a34a)
